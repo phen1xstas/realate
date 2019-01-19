@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-md-6  col-sm-12 col-xs-12 social-list">
                     <ul class="top-social">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+<!--                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                         <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
